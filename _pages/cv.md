@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% [CV](https://drive.google.com/file/d/1BVdWFifJ9FgiOaDJ2DLGBdUu1bZWx9o6/view) %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. (Agriculture), Tribhuvan University, Nepal, 2017
+* M.S. (Agricultural Economics), Agriculture and Forestry University, Nepal, 2020
+* Ph.D (Agricultural Economics), Kansas State University, 2025 (expected)
 
 Work experience
 ======

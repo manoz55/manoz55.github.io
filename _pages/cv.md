@@ -13,19 +13,16 @@ Education
 ======
 * B.S. (Agriculture), Tribhuvan University, Nepal, 2017
 * M.S. (Agricultural Economics), Agriculture and Forestry University, Nepal, 2020
-* Ph.D (Agricultural Economics), Kansas State University, 2025 (expected)
+* Ph.D. (Agricultural Economics), Kansas State University, 2025 (expected)
 
-Work experience
+Academic experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023 - till : Research Assistant| Dr. Nelson B. Villoria | Kansas State University
+* 2022 - 2023: Research Assistant | Dr. Edward Perry | Kansas State University
+* Fall 2022: Teaching Assistant | Dr. Benjamin Schwab | Kansas State University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Non-Academic experience**
+
   
 Skills
 ======
